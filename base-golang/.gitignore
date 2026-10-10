@@ -1,0 +1,14 @@
+# build
+/bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# env variables
+.env
+.env.*
+!.env.example
